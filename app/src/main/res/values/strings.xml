@@ -2,4 +2,6 @@
     <string name="app_name">Firebase Cloud Message</string>
     <string name="default_notification_channel_id">fcm_default_channel</string>
     <string name="fcm_message">Firebase Message</string>
+
+    <string name="id">Aldi Wahyu Saragih\n6706174098</string>
 </resources>
